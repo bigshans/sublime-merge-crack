@@ -1,0 +1,15 @@
+pkgbase = sublime-merge-cracked
+	pkgdesc = Meet a new Git Client, from the makers of Sublime Text
+	pkgver = 2077
+	pkgrel = 1
+	url = https://www.sublimemerge.com
+	arch = x86_64
+	license = custom
+	depends = gtk3
+	conflicts = sublime-merge
+	source = https://download.sublimetext.com/sublime-merge-2077-1-x86_64.pkg.tar.xz
+	source = LICENSE
+	sha256sums = 36835e5d1612ead30fb48c71dc043dd7c5e48fd65f0f9d8546e7338fdc9f3c66
+	sha256sums = 7ba89459cc654c58bd1b3875b67daf6f6f672f86f3356dcc1165e29806ce136e
+
+pkgname = sublime-merge-cracked
